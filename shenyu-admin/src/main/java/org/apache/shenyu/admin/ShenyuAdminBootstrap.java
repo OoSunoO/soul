@@ -28,7 +28,7 @@ import org.springframework.boot.autoconfigure.ldap.LdapAutoConfiguration;
 public class ShenyuAdminBootstrap {
 
     /**
-     * Main entrance.
+     * Main entrance程序入口.
      *
      * @param args startup arguments
      */
